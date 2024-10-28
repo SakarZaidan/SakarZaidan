@@ -24,7 +24,7 @@
 <h3>Design and Editing: Adobe After Effects, Premiere Pro, Photoshop<h3/>
 <div align="center"><img align="center"  src=https://images.pexels.com/photos/257904/pexels-photo-257904.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 alt="edit" height="400" width="800"><div/>
   <br/>
-<h3>Problem-solving: Algorithmic thinking, data structures( check my repository )<h3/>
+<h3>Problem-solving: Algorithmic thinking, data structures( check out my repository )<h3/>
 <div align="center"><img align="center"  src=https://images.pexels.com/photos/276452/pexels-photo-276452.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 alt="code" height="400" width="800"><div/>
    <br/>
 <h3>Gaming: if your a gamer too 🤙.<h3/>
