@@ -18,7 +18,7 @@
 
 # 🎯📈 skills :
 
-<h3>Programming: Primarily Python <h3/>
+<h3>Programming: Primarily Python & C++ <h3/>
 <div align="center"><img align="center"  src=https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 alt="code" height="400" width="800"><div/>
  <br/>
 <h3>Design and Editing: Adobe After Effects, Premiere Pro, Photoshop<h3/>
