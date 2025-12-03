@@ -6,7 +6,7 @@
   <h3>🏆 Competitive Programmer | 🎓 Masters Student | Tech Explorer</h3>
 
   <!-- Social Badges -->
-  <a href="https://codeforces.com/profile/sakarzaidan" target="_blank">
+  <a href="https://codeforces.com/profile/HorusBlood" target="_blank">
     <!-- Cyan color used for Specialist Rank -->
     <img src="https://img.shields.io/badge/Codeforces-Specialist-03A89E?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
