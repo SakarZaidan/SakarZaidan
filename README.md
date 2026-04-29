@@ -51,7 +51,7 @@ I am a Software Engineer and Master's student specializing in **Advanced Algorit
 
 ---
 
-### 📊 GitHub Statistics
+### GitHub Statistics
 <div align="center">
   <table border="0">
     <tr>
@@ -70,10 +70,10 @@ I am a Software Engineer and Master's student specializing in **Advanced Algorit
 
 ---
 
-### 📂 Recent Projects
+### Recent Projects
 <!-- Add your top 2-3 projects here to show recruiters what you're building -->
-- **lumina**
-- **Physicsme**
+- ****lumina****
+- ****Physicsme****
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/melsatar/melsatar/master/assets/line.gif" width="100%">
