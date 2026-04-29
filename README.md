@@ -75,9 +75,6 @@ I am a Software Engineer and Master's student specializing in **Advanced Algorit
 - ****lumina****
 - ****Physicsme****
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/melsatar/melsatar/master/assets/line.gif" width="100%">
-</p>
 
 <div align="center">
   "Complexity is the enemy of execution." — Let's build something efficient.
