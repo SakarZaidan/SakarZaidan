@@ -28,7 +28,7 @@ I am a Software Engineer and Master's student specializing in **Advanced Algorit
 
 ---
 
-### 🛠️ Technical Expertise
+### Technical Expertise
 
 | Category | Skills |
 | :--- | :--- |
