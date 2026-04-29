@@ -1,65 +1,84 @@
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDJkcjhiYnBjaTVkOGt4YWc0bTY3bGY2dXFiMWMxY3pzaG1hNjY2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fmkYSBlJt3XjNF6p9c/giphy.webp" alt="code" height="200" />
-  <br/>
-  
-  <h1>Hi 👋, I'm Sakar Zaidan</h1>
-  <h3>🏆 Competitive Programmer | 🎓 Masters Student | Tech Explorer</h3>
+  <h1>Hi, I'm Sakar Zaidan</h1>
+  <p><strong>Software Engineer | Competitive Programmer | Master's Student</strong></p>
 
-  <!-- Social Badges -->
   <a href="https://codeforces.com/profile/HorusBlood" target="_blank">
-    <!-- Cyan color used for Specialist Rank -->
     <img src="https://img.shields.io/badge/Codeforces-Specialist-03A89E?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
-  <a href="https://linkedin.com/in/sakarzaidan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.leetcode.com/sakarzaidan" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/></a>
-  <a href="https://instagram.com/sagrzidan0" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://linkedin.com/in/sakarzaidan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.leetcode.com/sakarzaidan" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </div>
 
 <br/>
 
-## 🚀 About Me
-- 🧠 **Main Focus:** Competitive Programming & Algorithms.
-- 🏅 **Achievements:** Codeforces **Specialist** (Cyan) & **ACPC Qualified**.
-- 🎓 **Education:** Currently pursuing my **Masters Degree**.
-- 🔭 **Exploring:** I love learning everything. Currently diving into **Web/App Dev, Game Dev, Cyber Security, and AI/ML**.
-- 🎮 **Fun:** When my code compiles, I game.
+### About Me
+I am a Software Engineer and Master's student specializing in **Advanced Algorithms** and **High-Performance System Design**. My development philosophy is rooted in competitive programming, ensuring every solution I build is optimized for time complexity and scalability.
+
+- **Current Focus:** Scalable backend architectures and Generative AI integration.
+- **Academic Pursuit:** Master’s degree in Technology.
+- **Interests:** Bitmask DP, System Design, Cloud Infrastructure, and CTF challenges.
+- **Philosophy:** "Code for humans, optimize for machines."
 
 ---
 
-## 🛠️ The Arsenal
+### 🛠️ Technical Expertise
 
-### ⚔️ Competitive Programming (Main)
-<!-- Highlighting C++ and Python as your main weapons -->
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Algorithms](https://img.shields.io/badge/Algorithms-%23292e3e.svg?style=for-the-badge&logo=leetcode&logoColor=white)
-
-### 💻 Development (Web & App)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-
-### 🎮 Game Dev & Creativity
-![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white)
-
-### 🛡️ & 🤖 Exploring (Security, AI, Cloud)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **Backend & Desktop** | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| **AI & Computer Vision** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![OpenAI](https://img.shields.io/badge/Generative_AI-412991?style=flat-square&logo=openai&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **Game Engines** | ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black) ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white) |
+| **DevOps & Frontend** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=SakarZaidan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SakarZaidan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SakarZaidan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### Competitive Programming & Achievements
+*Refining logic through algorithmic excellence.*
+
+- **Codeforces Specialist:** Peak rating in the **Cyan** range.
+- **ACPC Official Qualifier:** Africa and Arab Collegiate Programming Championship.
+- **ACPC Kickoff:** Secured **55th Place** regionally.
+- **KCPC & LCPC:** Top-tier competitor in Kuwait and local regional contests.
+- **VEX Robotics:** Engineering and programming competitor.
+
+---
+
+### 📊 GitHub Statistics
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=SakarZaidan&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="180px" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakarZaidan&theme=dark&hide_border=true&layout=compact" alt="Top Languages" height="180px" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SakarZaidan&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=SakarZaidan&label=Profile%20Views&color=03A89E&style=flat-square" alt="Views" />
+</div>
+
+---
+
+### 📂 Recent Projects
+<!-- Add your top 2-3 projects here to show recruiters what you're building -->
+- **lumina**
+- **Physicsme**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/melsatar/melsatar/master/assets/line.gif" width="100%">
+</p>
+
+<div align="center">
+  "Complexity is the enemy of execution." — Let's build something efficient.
+</div>
