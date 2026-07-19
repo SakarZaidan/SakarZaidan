@@ -71,11 +71,12 @@ I am a Software Engineer and Master's student specializing in **Advanced Algorit
 ---
 
 ### Recent Projects
-<!-- Add your top 2-3 projects here to show recruiters what you're building -->
+
 - ****lumina****
-- ****Physicsme****
+- ****prescribesafe****
+- ****neurofroge****
 
 
 <div align="center">
-  "Complexity is the enemy of execution." — Let's build something efficient.
+  "Complexity is the enemy of execution." - Let's build something efficient.
 </div>
