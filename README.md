@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Sakar Zaidan</h1>
-  <p><strong>Software Engineer | Competitive Programmer | Master's Student</strong></p>
+  <p><strong>Software Engineer | Competitive Programmer | Fresh Grad</strong></p>
 
   <a href="https://codeforces.com/profile/HorusBlood" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-Specialist-03A89E?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
