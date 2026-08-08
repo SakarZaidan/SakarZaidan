@@ -19,7 +19,7 @@
 <br/>
 
 ### About Me
-I am a Software Engineer and Master's student specializing in **Advanced Algorithms** and **High-Performance System Design**. My development philosophy is rooted in competitive programming, ensuring every solution I build is optimized for time complexity and scalability.
+I am a Software Engineer and Fresh Grad specializing in **Advanced Algorithms** and **High-Performance System Design**. My development philosophy is rooted in competitive programming, ensuring every solution I build is optimized for time complexity and scalability.
 
 - **Current Focus:** Scalable backend architectures and Generative AI integration.
 - **Academic Pursuit:** Master’s degree in Technology.
