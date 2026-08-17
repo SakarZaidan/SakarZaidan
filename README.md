@@ -22,7 +22,6 @@
 I am a Software Engineer and Fresh Grad specializing in **Advanced Algorithms** and **High-Performance System Design**. My development philosophy is rooted in competitive programming, ensuring every solution I build is optimized for time complexity and scalability.
 
 - **Current Focus:** Scalable backend architectures and Generative AI integration.
-- **Academic Pursuit:** Master’s degree in Technology.
 - **Interests:** Bitmask DP, System Design, Cloud Infrastructure, and CTF challenges.
 - **Philosophy:** "Code for humans, optimize for machines."
 
